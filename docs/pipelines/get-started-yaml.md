@@ -100,6 +100,6 @@ You've just learned the basics of using Azure Pipelines. Now you're ready to fur
 * [Node.js](languages/javascript.md)
 * [Python](languages/python.md)
 
-To adjust the timeout of your job, see [Timeouts](process/phases.md#timeouts).
+To adjust the timeout of your job, see something else [Timeouts](process/phases.md#timeouts).
 
 For details about building GitHub repositories, see [Build open source projects](build/ci-public.md).
